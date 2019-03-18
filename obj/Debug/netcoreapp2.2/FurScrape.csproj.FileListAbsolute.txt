@@ -1,0 +1,11 @@
+/home/isobunny/C_Sharp/FurScrape/bin/Debug/netcoreapp2.2/FurScrape.deps.json
+/home/isobunny/C_Sharp/FurScrape/bin/Debug/netcoreapp2.2/FurScrape.runtimeconfig.json
+/home/isobunny/C_Sharp/FurScrape/bin/Debug/netcoreapp2.2/FurScrape.runtimeconfig.dev.json
+/home/isobunny/C_Sharp/FurScrape/bin/Debug/netcoreapp2.2/FurScrape.dll
+/home/isobunny/C_Sharp/FurScrape/bin/Debug/netcoreapp2.2/FurScrape.pdb
+/home/isobunny/C_Sharp/FurScrape/obj/Debug/netcoreapp2.2/FurScrape.csprojAssemblyReference.cache
+/home/isobunny/C_Sharp/FurScrape/obj/Debug/netcoreapp2.2/FurScrape.csproj.CoreCompileInputs.cache
+/home/isobunny/C_Sharp/FurScrape/obj/Debug/netcoreapp2.2/FurScrape.AssemblyInfoInputs.cache
+/home/isobunny/C_Sharp/FurScrape/obj/Debug/netcoreapp2.2/FurScrape.AssemblyInfo.cs
+/home/isobunny/C_Sharp/FurScrape/obj/Debug/netcoreapp2.2/FurScrape.dll
+/home/isobunny/C_Sharp/FurScrape/obj/Debug/netcoreapp2.2/FurScrape.pdb
